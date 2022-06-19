@@ -1,0 +1,9 @@
+body {
+    background: tan;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
