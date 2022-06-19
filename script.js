@@ -6,4 +6,5 @@ h2.textContent = "My name is Sam!"
 h2.style.textAlign = "center";
 h2.style.fontSize = "50px";
 
-
+const h3 = document.getElementById("nootintro");
+h3.style.fontSize = "25px";
